@@ -1,0 +1,11 @@
+name,height_in_cm,siblings,distance_to_spiced_in_km,residence,country_of_birth,has_netflix,plays_instrument
+Malte,187,2,5,Cologne,Germany,1,1
+Arjang,178,0,2.1,Cologne,Iran,1,0
+Britta,169,1,40,Düsseldorf,Germany,1,1
+Stefan,177,0,25,Kerpen,Gemany,0,0
+Thomas,178,1,2.4,Cologne,Germany,1,1
+Mehdi ,174,9,44,Düsseldorf,Iran,0,1
+Emre,180,2,13,Cologne,Türkei,1,0
+Meng-Ying,160,2,37,Düsseldorf,Taiwan,1,1
+Sam,180,1,3,Cologne,USA,0,1
+Jasmine,163,1,4.9,Cologne,India,1,0

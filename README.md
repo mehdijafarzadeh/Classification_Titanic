@@ -1,7 +1,6 @@
 # Classification Models on Titanic Dataset
  **In this project I've tried to apply different models on Titanic Dataset from Kaggle**
  - Logistic Regression
- - Decision Trees
  - Random Forest
 ## 1.Data Visualitsation and Feature Engineering (FE)
  - Correlation of the features gives us really important imformations to decide which features can be used in our model.
@@ -31,6 +30,6 @@
      - recall = `metrics.recall_score(y_test, y_pred_test)` -> 110 / (110 + 24)
 
 ## 3.Comparing Accuracy between LogReg, DecisionTrees, RandomForest
-    As it's seen, I get the highest score on DecisionTree model
+    As it's seen, I get the highest score on RandomForest  model
 
  ![](./pictures/compare_score.png)
